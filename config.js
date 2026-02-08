@@ -16,7 +16,7 @@ const CONFIG = {
             yesBtn: "Yes",                                             
             noBtn: "No",                                               
             secretAnswer: "I don't like you, I love you! ❤️"    
-                
+        },
         second: {
             text: "How much do you love me?",
             startText: "This much!",                                  
